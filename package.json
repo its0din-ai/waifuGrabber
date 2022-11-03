@@ -1,0 +1,13 @@
+{
+
+    "type": "module",
+
+    "dependencies": {
+
+        "fs": "^0.0.1-security",
+        "twitter-api-sdk": "^1.2.1"
+
+    }
+
+}
+
